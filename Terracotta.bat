@@ -10,7 +10,7 @@
 ::
 ::
 ::"When the enemy is relaxed, make them toil. When full, starve them. When settled, make them move."
-::        												― Sun Tzu, The Art of War
+::      		― Sun Tzu, The Art of War
 ::
 ::With this template you can open as many radagast instance as you want with accounts in a single executable
 ::
