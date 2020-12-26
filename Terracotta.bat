@@ -18,7 +18,7 @@
 ::just configure how you like and run
 ::
 ::
-::Simply replace <USER> with the user name of your bot (i.e. first.last or username) and the <PASSWORD> with your ::passwords. 
+::Simply replace <USER> with the user name of your bot (i.e. first.last or username) and the <PASSWORD> with your passwords. 
 ::
 ::
 ::You can add as many lines as you like as well and even add more options such as locations as well.
