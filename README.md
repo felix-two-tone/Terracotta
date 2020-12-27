@@ -2,6 +2,10 @@
 
 Automate Radegast Login en Mass
 
+You need Radegast to use this script. 
+
+https://radegast.life/downloads/
+
 Second Life TOS might restrict ownership of multiple accounts, I am not reponsible for any TOS violations due to use of this script. 
 
 "When the enemy is relaxed, make them toil. When full, starve them. When settled, make them move."
