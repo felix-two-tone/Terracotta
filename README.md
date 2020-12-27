@@ -16,3 +16,14 @@ Simply replace <USER> with the user name of your bot (i.e. first.last or usernam
 
 
 You can add as many lines as you like as well and even add more options such as locations as well.
+
+TERRACOTTA.BAT
+
+ >Users loaded from file directly.
+ >Only use with secured system as bot passwords are stored in plaintext.
+ 
+TERRACOTTA_USER.BAT
+ 
+ >Select number of users to load.
+ >Input name and password for users (Repeat for each user).
+ >Passwords never stored in filedirectly.
