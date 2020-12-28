@@ -1,6 +1,6 @@
 # Terracotta
 
-Automate Radegast Login en Mass
+Automate Radegast Login en masse
 
 You need Radegast to use this script. 
 
